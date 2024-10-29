@@ -4,7 +4,7 @@ GymPass
 
 ## FRs
 
-- [ ] It should be possible to register
+- [x] It should be possible to register
 - [ ] It should be possible to authenticate
 - [ ] It should be possible to obtain the profile of a logged user
 - [ ] It should be possible to obtain the number of check-ins of a logged user
@@ -17,7 +17,7 @@ GymPass
 
 ## BRs
 
-- [ ] User cannot register with a duplicated e-mail address
+- [x] User cannot register with a duplicated e-mail address
 - [ ] User cannot make 2 check-ins on the same day
 - [ ] User cannot make check-in if he is not close (100m) to the gym
 - [ ] The check-in can only be validated up to 20 minutes after it is created
@@ -26,7 +26,7 @@ GymPass
   
 ## NFRs
 
-- [ ] The user password must be encrypted
-- [ ] Application data needs to be persisted in a PostgreSQL database
+- [x] The user password must be encrypted
+- [x] Application data needs to be persisted in a PostgreSQL database
 - [ ] All data lists must be paginated with 20 items per page
 - [ ] The user needs to be authenticated by a JWT ( JSON Web Token)
