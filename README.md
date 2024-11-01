@@ -7,7 +7,7 @@ GymPass
 - [x] It should be possible to register
 - [x] It should be possible to authenticate
 - [x] It should be possible to obtain the profile of a logged user
-- [ ] It should be possible to obtain the number of check-ins of a logged user
+- [x] It should be possible to obtain the number of check-ins of a logged user
 - [x] It should be possible for the user to obtain their check-ins history
 - [ ] It should be possible for the user to search for nearby gyms
 - [ ] It should be possible for the user to search gym by name
