@@ -20,7 +20,7 @@ GymPass
 - [x] User cannot register with a duplicated e-mail address
 - [x] User cannot make 2 check-ins on the same day
 - [x] User cannot make check-in if he is not close (100m) to the gym
-- [ ] The check-in can only be validated up to 20 minutes after it is created
+- [x] The check-in can only be validated up to 20 minutes after it is created
 - [ ] The check-in can only be validated by administrators
 - [ ] The gym can only be registered by administrators
   
