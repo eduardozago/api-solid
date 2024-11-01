@@ -12,7 +12,7 @@ GymPass
 - [x] It should be possible for the user to search for nearby gyms (10 km)
 - [x] It should be possible for the user to search gym by name
 - [x] It should be possible for the user check-in at a gym
-- [ ] It should be possible validate a user check-in
+- [x] It should be possible validate a user check-in
 - [x] It should be possible to register a gym
 
 ## BRs
