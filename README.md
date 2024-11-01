@@ -8,7 +8,7 @@ GymPass
 - [x] It should be possible to authenticate
 - [x] It should be possible to obtain the profile of a logged user
 - [ ] It should be possible to obtain the number of check-ins of a logged user
-- [ ] It should be possible for the user to obtain their check-ins  history
+- [x] It should be possible for the user to obtain their check-ins history
 - [ ] It should be possible for the user to search for nearby gyms
 - [ ] It should be possible for the user to search gym by name
 - [x] It should be possible for the user check-in at a gym
@@ -28,5 +28,5 @@ GymPass
 
 - [x] The user password must be encrypted
 - [x] Application data needs to be persisted in a PostgreSQL database
-- [ ] All data lists must be paginated with 20 items per page
+- [x] All data lists must be paginated with 20 items per page
 - [ ] The user needs to be authenticated by a JWT ( JSON Web Token)
