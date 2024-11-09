@@ -30,8 +30,6 @@ describe('Profile (e2e)', () => {
       .set('Authorization', `Bearer ${token}`)
       .send()
 
-    console.log(profileResponse.body)
-
     expect(profileResponse.statusCode).toEqual(200)
     expect(profileResponse.body).toEqual(
       expect.objectContaining({
